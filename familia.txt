@@ -1,0 +1,112 @@
+Nombre: Luis González Flores
+Sexo: Hombre
+Edad: 90
+Ahorros: $200
+Ataque: 12
+Defensa: 18
+Sabiduría: 1000000
+#
+Nombre: Rosa Mendoza Jiménez
+Sexo: Mujer
+Edad: 91
+Ahorros: $125
+Ataque: 2
+Defensa: 26
+Sabiduría: 1500000
+#
+Nombre: Alejandro González Mendoza
+Sexo: Hombre
+Edad: 75
+Ahorros: $500
+Ataque: 101
+Defensa: 205
+Sabiduría: 1000000
+#
+Nombre: María Pérez Madrigal
+Sexo: Mujer
+Edad: 76
+Ahorros: $550
+Ataque: 150
+Defensa: 100
+Sabiduría: 15300
+#
+Nombre: Andrea González Mendoza
+Sexo: Mujer
+Edad: 66
+Ahorros: $750
+Ataque: 10060
+Defensa: 1500
+Sabiduría: 150000
+#
+Nombre: Carlos Sánchez Lopez
+Sexo: Hombre
+Edad: 63
+Ahorros: $980
+Ataque: 199
+Defensa: 205
+Sabiduría: 100
+#
+Nombre: Daniel González Pérez
+Sexo: Hombre
+Edad: 57
+Ahorros: $103
+Ataque: 50000
+Defensa: 1050
+Sabiduría: 10000
+#
+Nombre: Laura Salas Chacón
+Sexo: Mujer
+Edad: 56
+Ahorros: $700
+Ataque: 300
+Defensa: 11332345
+Sabiduría: 15000
+#
+Nombre: Alison González Pérez
+Sexo: Mujer
+Edad: 44
+Ahorros: $950
+Ataque: 15
+Defensa: 11
+Sabiduría: 1000
+#
+Nombre: Santiago Chavarria Vargas
+Sexo: Hombre
+Edad: 47
+Ahorros: $10
+Ataque: 5000092
+Defensa: 1050152
+Sabiduría: 5
+#
+Nombre: Pablo Sánchez González
+Sexo: Hombre
+Edad: 30
+Ahorros: $1
+Ataque: 150239545
+Defensa: 1625357836
+Sabiduría: 6
+#
+Nombre: Isabel Martínez Diaz
+Sexo: Mujer
+Edad: 20
+Ahorros: $325
+Ataque: 1502340
+Defensa: 16253542
+Sabiduría: 3560
+#
+Nombre: José Herrera Torres
+Sexo: Hombre
+Edad: 22
+Ahorros: $167
+Ataque: 50012232
+Defensa: 1052
+Sabiduría: 42321
+#
+Nombre: Lucia Sánchez González
+Sexo: Mujer
+Edad: 25
+Ahorros: $118
+Ataque: 50032
+Defensa: 10152
+Sabiduría: 5122221
+#
